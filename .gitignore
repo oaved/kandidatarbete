@@ -1,0 +1,6 @@
+/data
+/excel
+.venv/
+__pycache__/
+/old
+/main/social_variables.md
